@@ -1,0 +1,12 @@
+# dependencies
+bun.lockb
+node_modules
+.env
+
+
+# testing
+/coverage
+
+# production
+/build
+
